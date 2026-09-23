@@ -1,0 +1,11 @@
+name = "spinmacho-casino-com-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmacho-casino.com.gr"
+HMAC_KEY = "f4e75b4ec0954f84904c46b4cfa1f333552a86dc5d58af61b08cc74fa3cccc7e"
+COOKIE_NAME = "8u7"
+PLAY_PATH = "explore"
+BUTTON_ID = "p7feb29dd7e3667010394b5f708a043bb"
+GATE_SALT = "593459d3a8523a7a"
